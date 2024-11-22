@@ -50,9 +50,6 @@ function animate() {
   renderer.render(scene,camera);
 }
 
-//anime object
-
-
 //button functionality
 const button1 = document.getElementById("button1");
 
